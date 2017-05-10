@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="com.shh.test.MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="系统自带"/>
+
+    <Button
+        android:id="@+id/btn_move"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="上移"/>
+
+    <Button
+        android:id="@+id/btn_ripple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="360波纹菜单"/>
+
+    <Button
+        android:id="@+id/btn_clip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="展开"/>
+
+</LinearLayout>
