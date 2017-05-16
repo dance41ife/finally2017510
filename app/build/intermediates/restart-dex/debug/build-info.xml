@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5862081841228"
+    token="-8021375665299468647"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="259" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="110" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="G:\qm\finally\finally2017510-master\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="4868268116998"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="G:\qm\finally\finally2017510-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5862081841228"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="G:\qm\finally\finally2017510-master\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
