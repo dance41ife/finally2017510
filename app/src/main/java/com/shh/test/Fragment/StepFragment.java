@@ -62,9 +62,5 @@ public class StepFragment extends Fragment {
 
         timer.schedule(timerTask,500,500);
     }
-
-
-
-
 }
 

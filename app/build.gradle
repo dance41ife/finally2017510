@@ -31,4 +31,5 @@ dependencies {
     compile 'org.apache.karaf.jdbc:jdbc:3.0.8'
     compile files('libs/standard-1.1.2.jar')
     compile files('libs/mysql-connector-java-5.0.8-bin.jar')
+    compile files('libs/BaiduLBS_Android.jar')
 }

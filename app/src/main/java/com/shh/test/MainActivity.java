@@ -17,10 +17,12 @@ import android.util.Log;
 import android.view.Window;
 import android.widget.TextView;
 
+import com.baidu.mapapi.SDKInitializer;
+import com.shh.test.Fragment.PathFragment;
 import com.shh.test.Fragment.StepFragment;
 import com.shh.test.menu.TabFragment;
-import com.shh.test.menu.library.TabItem;
 import com.shh.test.menu.library.XFragmentTabHost;
+import com.shh.test.menu.library.TabItem;
 import com.shh.test.myStep.config.Constant;
 import com.shh.test.myStep.service.StepService;
 
@@ -36,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements Handler.Callback{
             R.drawable.sel_tab_game, R.drawable.sel_tab_mag};
 
     //这是你要用到的Fragment
-    Class[] mFragClass = new Class[] {StepFragment.class, TabFragment.class,
+    Class[] mFragClass = new Class[] {StepFragment.class, PathFragment.class,
             TabFragment.class, TabFragment.class};
 
     int stepNum=0;
@@ -45,12 +47,12 @@ public class MainActivity extends AppCompatActivity implements Handler.Callback{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        SDKInitializer.initialize(getApplicationContext());
         //隐藏标题栏
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         if (getSupportActionBar() != null){
             getSupportActionBar().hide();
         }
-
         setContentView(R.layout.activity_menu_clip);
         delayHandler = new Handler(this);
         initTabHost();
