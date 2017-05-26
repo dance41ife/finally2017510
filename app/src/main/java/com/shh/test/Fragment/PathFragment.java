@@ -47,6 +47,7 @@ import com.shh.test.overlayutil.WalkingRouteOverlay;
  */
 
 public class PathFragment extends Fragment {
+    private static final String KEY_INDEX="index";
     private BaiduMap mBaiduMap = null;
     private MapView mMapView = null;
     private LocationClient mLocationClient;
@@ -61,13 +62,16 @@ public class PathFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
-
+        setRetainInstance(true);
 
 
     }
+
+    @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
         v=inflater.inflate(R.layout.fragment_path,container,false);
         setRetainInstance(true);
+
         mMapView = (MapView)v.findViewById(R.id.bmapView);
         mBaiduMap = mMapView.getMap();
         MapStatus mapStatus=new MapStatus.Builder().zoom(19).build();
@@ -287,7 +291,6 @@ public class PathFragment extends Fragment {
         option.setIsNeedLocationPoiList(true);
         mLocationClient.setLocOption(option);
     }
-
 
 }
 

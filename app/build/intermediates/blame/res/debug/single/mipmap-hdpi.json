@@ -1,7 +1,19 @@
 [
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_game_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_normal.png"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_normal.png",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_manager_pressed.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_software_normal.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_pressed.png",
@@ -10,6 +22,10 @@
     {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_pressed.png",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_pressed.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_normal.png",
@@ -30,6 +46,14 @@
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_pressed.png",
         "source": "G:\\qm\\finally\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_pressed.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_normal.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_normal.png",
@@ -60,6 +84,10 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_normal.png"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_preview.png"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_game_normal.png",
         "source": "G:\\qm\\finally\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_normal.png"
     },
@@ -74,6 +102,14 @@
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_pressed.png",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_software_pressed.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_game_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_preview.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_pressed.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_pressed.png",
@@ -96,6 +132,10 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_normal.png"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_pressed.png"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -104,8 +144,16 @@
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_pressed.png"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_normal.png"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_normal.png",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_administration_normal.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_pressed.png",
@@ -124,12 +172,20 @@
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_normal.png"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_software_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_software_preview.png"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_pressed.png",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_pressed.png"
     },
     {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_normal.png",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_administration_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_software_pressed.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_software_preview.png",
@@ -150,6 +206,10 @@
     {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_normal.png",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_pressed.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_pressed.png",
@@ -184,6 +244,18 @@
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_software_preview.png"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_software_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_software_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_administration_preview.png"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_preview.png",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_preview.png"
     },
@@ -210,6 +282,10 @@
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_normal.png",
         "source": "G:\\qm\\finally\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_manager_normal.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_manager_normal.png"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_preview.png",

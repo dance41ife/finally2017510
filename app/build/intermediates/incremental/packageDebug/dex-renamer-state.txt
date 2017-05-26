@@ -1,7 +1,7 @@
-#Tue May 16 19:31:46 CST 2017
-base.0=G\:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d8239e7420438f54962263ccd1ddcbe65f9c2195
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=G\:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b829ad703cd03a04c034220fe8471ecf022ee721\\classes.dex
-base.1=G\:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b829ad703cd03a04c034220fe8471ecf022ee721
-file.0=G\:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d8239e7420438f54962263ccd1ddcbe65f9c2195\\classes.dex
+#Fri May 26 12:28:50 CST 2017
+base.0=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2dfeb821aa3199dd2746b6876ba821ef3f9fb866
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4424c0f6ee2cf7c074c4642320f6fd3094faec86\\classes.dex
+base.1=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4424c0f6ee2cf7c074c4642320f6fd3094faec86
+file.0=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2dfeb821aa3199dd2746b6876ba821ef3f9fb866\\classes.dex

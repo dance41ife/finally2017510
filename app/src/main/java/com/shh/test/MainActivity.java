@@ -18,6 +18,7 @@ import android.view.Window;
 import android.widget.TextView;
 
 import com.baidu.mapapi.SDKInitializer;
+import com.shh.test.Fragment.MineFragment;
 import com.shh.test.Fragment.PathFragment;
 import com.shh.test.Fragment.StepFragment;
 import com.shh.test.menu.TabFragment;
@@ -33,13 +34,13 @@ public class MainActivity extends AppCompatActivity implements Handler.Callback{
     //基于FragmentTabHost的控件
     private XFragmentTabHost mTabHost;
 
-    String[] mTabTitle = new String[] {"首页", "软件", "游戏", "管理"};
+    String[] mTabTitle = new String[] {"首页", "计划", "我的", "管理"};
     int[] mImageResId = new int[] {R.drawable.sel_tab_home, R.drawable.sel_tab_app,
             R.drawable.sel_tab_game, R.drawable.sel_tab_mag};
 
     //这是你要用到的Fragment
     Class[] mFragClass = new Class[] {StepFragment.class, PathFragment.class,
-            TabFragment.class, TabFragment.class};
+            MineFragment.class, TabFragment.class};
 
     int stepNum=0;
 

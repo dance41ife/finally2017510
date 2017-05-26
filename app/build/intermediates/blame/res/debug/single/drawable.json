@@ -8,12 +8,20 @@
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
@@ -22,6 +30,10 @@
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -36,6 +48,10 @@
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_mag.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_game.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\drawable\\sel_tab_game.xml"
     },
@@ -44,16 +60,20 @@
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabhost_color_tv.xml",
-        "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\drawable\\tabhost_color_tv.xml"
-    },
-    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabhost_color_tv.xml",
+        "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\drawable\\tabhost_color_tv.xml"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_game.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_game.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.jpg",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\loading.jpg"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_app.xml",
@@ -64,8 +84,16 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_app.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_tab_app.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_game.xml",
@@ -76,12 +104,28 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_home.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_home.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_home.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\drawable\\sel_menu_home.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timg.jpg",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\timg.jpg"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -112,12 +156,28 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_home.xml",
@@ -130,6 +190,10 @@
     {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_software.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_software.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_game.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_game.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_app.xml",
@@ -160,12 +224,24 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_mag.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_mag.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -180,8 +256,20 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_game.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\drawable\\sel_menu_game.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_home.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_tab_home.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_app.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_app.xml"
     },
     {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabhost_color_tv.xml",
@@ -192,8 +280,28 @@
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_software.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_software.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_game.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_tab_game.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
@@ -228,12 +336,28 @@
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_menu_mag.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_menu_mag.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_app.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\src\\main\\res\\drawable\\sel_tab_app.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_game.xml",
@@ -242,6 +366,10 @@
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
@@ -276,6 +404,10 @@
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabhost_color_tv.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\tabhost_color_tv.xml"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -298,6 +430,14 @@
     {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_step_count.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\bg_step_count.png"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
@@ -368,12 +508,20 @@
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
         "merged": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "G:\\qm\\CloneTest\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -424,12 +572,20 @@
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_tab_mag.xml",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\sel_tab_mag.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -450,6 +606,10 @@
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "G:\\qm\\finally\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
