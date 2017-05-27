@@ -8,4 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+
+    <style name="loadingButton">
+        <item name="android:background">@drawable/button_loading_normal</item>
+    </style>
+
+
+    <style name="registerButton">
+        <item name="android:background">@drawable/button_register_normal</item>
+    </style>
+
 </resources>
