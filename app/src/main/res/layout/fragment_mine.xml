@@ -4,9 +4,55 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:gravity="center">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_margin="15dp"
+        android:layout_height="80dp">
+        <ImageView
+            android:background="@drawable/loading3"
+            android:layout_width="70dp"
+            android:layout_height="70dp"/>
+        <TextView
+            android:layout_margin="20dp"
+            android:id="@+id/my_name"
+            android:gravity="center"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:textSize="20dp"
+            android:text="XXXXXXXX"
+            />
+    </LinearLayout>
+    <ImageButton
+        android:background="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="5dp"/>
+    <TextView
+        android:textColor="#00BCD4"
+        android:text="所有分享"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/share_recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_margin="15dp"
+        >
+
+    </android.support.v7.widget.RecyclerView>
+
+
     <Button
         android:id="@+id/exit_button"
-        android:layout_width="100dp"
-        android:layout_height="50dp"/>
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="注销"
+        android:textColor="@color/white"
+        android:background="@drawable/button_loading_normal"/>
 
 </LinearLayout>

@@ -1,78 +1,78 @@
 [
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_game_preview.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_preview.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_pressed.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_manager_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_game_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_software_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_software_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_manager_pressed.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_pressed.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_pressed.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_software_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_software_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_pressed.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_pressed.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_administration_preview.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_preview.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_administration_preview.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_administration_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_software_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_software_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_software_preview.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_game_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_software_pressed.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_software_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_preview.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_pressed.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_manager_pressed.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_home_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_home_pressed.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_administration_normal.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_administration_normal.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_manager_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_manager_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_preview.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_preview.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_game_preview.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_game_preview.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_pressed.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_pressed.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_appgroup_pressed.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_appgroup_pressed.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_software_preview.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_software_preview.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_game_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_game_normal.png"
     },
     {
-        "merged": "F:\\myAndroid\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bottombar_software_pressed.png",
-        "source": "F:\\myAndroid\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\bottombar_software_pressed.png"
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_boutique_normal.png",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\mipmap-hdpi\\ic_boutique_normal.png"
     }
 ]

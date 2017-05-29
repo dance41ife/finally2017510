@@ -5,8 +5,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.text.method.HideReturnsTransformationMethod;
+import android.text.method.PasswordTransformationMethod;
 import android.view.View;
 import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -26,6 +30,7 @@ public class LoadingActivity extends Activity {
     private Button loginButton;
     private EditText editTextUserName;
     private EditText editTextPassWord;
+    private CheckBox mCheckBox;
     String password;
     String username;
     @Override
@@ -38,7 +43,7 @@ public class LoadingActivity extends Activity {
             public void onClick(View view) {
                 HttpParams params = new HttpParams();
                 if(username==null||password==null){
-                    Toast.makeText(LoadingActivity.this,"用户名密码错误",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(LoadingActivity.this,"用户名或密码错误",Toast.LENGTH_SHORT).show();
 
                 }else{
                     //使用了RxVolly框架，进行网络连接，通过回掉函数，获得web端返回的请求，为字符串t。
@@ -53,7 +58,7 @@ public class LoadingActivity extends Activity {
 //                        loginStatus=t;
 
                             if(t.equals("user not exist")){
-                                Toast.makeText(LoadingActivity.this,"用户名密码错误",Toast.LENGTH_SHORT).show();
+                                Toast.makeText(LoadingActivity.this,"用户名或密码错误",Toast.LENGTH_SHORT).show();
                             }else {
                                 Intent i=new Intent(LoadingActivity.this,MainActivity.class);
                                 startActivity(i);
@@ -107,6 +112,17 @@ public class LoadingActivity extends Activity {
                 RegisterFragment registerFragment=new RegisterFragment();
                 registerFragment.show(manager,"");
 
+            }
+        });
+        mCheckBox=(CheckBox)findViewById(R.id.checkbox);
+        mCheckBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                if (b){
+                    editTextPassWord.setTransformationMethod(HideReturnsTransformationMethod.getInstance());
+                }else {
+                    editTextPassWord.setTransformationMethod(PasswordTransformationMethod.getInstance());
+                }
             }
         });
     }
