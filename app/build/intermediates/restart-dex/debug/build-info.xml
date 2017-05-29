@@ -1,61 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="24"
+    api-level="22"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="5585807397186"
-    token="-3991331188811567211"
+    timestamp="513543897174060"
+    token="8960605636906299785"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="252" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="60" />
     <task
         name="verifier"
-        duration="0" />
+        duration="8" />
 
     <artifact
-        location="G:\qm\finally2017510\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="F:\myAndroid\finally2017510\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\myAndroid\finally2017510\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="3673889414573"
+        timestamp="510633677143149"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="G:\qm\finally2017510\app\build\outputs\apk\app-debug.apk"
+            location="F:\myAndroid\finally2017510\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="5094376280089"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="G:\qm\finally2017510\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
-    <build
-        timestamp="5334051108810"
+        timestamp="513543897174060"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="G:\qm\finally2017510\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            location="F:\myAndroid\finally2017510\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
             type="DEX" />
         <artifact
-            location="G:\qm\finally2017510\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            location="F:\myAndroid\finally2017510\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />
-    </build>
-    <build
-        timestamp="5585807397186"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="G:\qm\finally2017510\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
