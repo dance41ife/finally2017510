@@ -15,7 +15,6 @@ import com.kymjs.rxvolley.RxVolley;
 import com.kymjs.rxvolley.client.HttpCallback;
 import com.kymjs.rxvolley.client.HttpParams;
 import com.shh.test.LoadingActivity;
-import com.shh.test.MainActivity;
 import com.shh.test.R;
 import com.shh.test.Share.Share;
 import com.shh.test.Share.ShareLab;
@@ -117,7 +116,9 @@ public class MineFragment extends Fragment {
     }
     public void updateArticle(){
         HttpParams params = new HttpParams();
+
         //获取页面 0
+        params.put("articleStatus","0");
         RxVolley.post("http://123.206.119.108:8080/MyStepServer/Article", params, new HttpCallback() {
             @Override
             public void onSuccess(String t) {

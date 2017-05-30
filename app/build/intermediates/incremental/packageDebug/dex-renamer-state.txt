@@ -1,7 +1,7 @@
-#Tue May 30 12:26:27 CST 2017
-base.0=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2dfeb821aa3199dd2746b6876ba821ef3f9fb866
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4424c0f6ee2cf7c074c4642320f6fd3094faec86\\classes.dex
-base.1=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4424c0f6ee2cf7c074c4642320f6fd3094faec86
-file.0=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2dfeb821aa3199dd2746b6876ba821ef3f9fb866\\classes.dex
+#Tue May 30 16:03:54 CST 2017
+base.0=F\:\\myAndroid\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0885c6558d3e534e4db1f3c91ec346ee89226df3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\myAndroid\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_977e30642b50c475b1be3bcb624b9148f1bcc12d\\classes.dex
+base.1=F\:\\myAndroid\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_977e30642b50c475b1be3bcb624b9148f1bcc12d
+file.0=F\:\\myAndroid\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0885c6558d3e534e4db1f3c91ec346ee89226df3\\classes.dex
