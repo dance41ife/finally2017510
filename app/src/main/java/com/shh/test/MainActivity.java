@@ -21,6 +21,7 @@ import com.baidu.mapapi.SDKInitializer;
 import com.shh.test.Fragment.MineFragment;
 import com.shh.test.Fragment.PathFragment;
 import com.shh.test.Fragment.StepFragment;
+import com.shh.test.Fragment.TipFragment;
 import com.shh.test.menu.TabFragment;
 import com.shh.test.menu.library.XFragmentTabHost;
 import com.shh.test.menu.library.TabItem;
@@ -41,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements Handler.Callback{
 
     //这是你要用到的Fragment
     Class[] mFragClass = new Class[] {StepFragment.class, PathFragment.class,
-            MineFragment.class, TabFragment.class};
+            MineFragment.class, TipFragment.class};
 
     int stepNum=0;
 
