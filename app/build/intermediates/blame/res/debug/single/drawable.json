@@ -12,6 +12,10 @@
         "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.jpg",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
         "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "G:\\qm\\finally2017510\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fist.jpg",
+        "source": "G:\\qm\\finally2017510\\app\\src\\main\\res\\drawable\\fist.jpg"
     },
     {
         "merged": "G:\\qm\\finally2017510\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",

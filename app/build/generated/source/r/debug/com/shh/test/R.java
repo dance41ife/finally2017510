@@ -1674,26 +1674,28 @@ containing a value of this type.
         public static final int bg_step_count=0x7f02004b;
         public static final int button_loading_normal=0x7f02004c;
         public static final int button_register_normal=0x7f02004d;
-        public static final int loading=0x7f02004e;
-        public static final int loading2=0x7f02004f;
-        public static final int loading3=0x7f020050;
-        public static final int loading_edit=0x7f020051;
-        public static final int notification_template_icon_bg=0x7f02005e;
-        public static final int sel_menu_app=0x7f020052;
-        public static final int sel_menu_game=0x7f020053;
-        public static final int sel_menu_home=0x7f020054;
-        public static final int sel_menu_mag=0x7f020055;
-        public static final int sel_menu_software=0x7f020056;
-        public static final int sel_tab_app=0x7f020057;
-        public static final int sel_tab_game=0x7f020058;
-        public static final int sel_tab_home=0x7f020059;
-        public static final int sel_tab_mag=0x7f02005a;
-        public static final int shadow=0x7f02005b;
-        public static final int tabhost_color_tv=0x7f02005c;
-        public static final int timg=0x7f02005d;
+        public static final int fist=0x7f02004e;
+        public static final int image=0x7f02004f;
+        public static final int loading=0x7f020050;
+        public static final int loading2=0x7f020051;
+        public static final int loading3=0x7f020052;
+        public static final int loading_edit=0x7f020053;
+        public static final int notification_template_icon_bg=0x7f020060;
+        public static final int sel_menu_app=0x7f020054;
+        public static final int sel_menu_game=0x7f020055;
+        public static final int sel_menu_home=0x7f020056;
+        public static final int sel_menu_mag=0x7f020057;
+        public static final int sel_menu_software=0x7f020058;
+        public static final int sel_tab_app=0x7f020059;
+        public static final int sel_tab_game=0x7f02005a;
+        public static final int sel_tab_home=0x7f02005b;
+        public static final int sel_tab_mag=0x7f02005c;
+        public static final int shadow=0x7f02005d;
+        public static final int tabhost_color_tv=0x7f02005e;
+        public static final int timg=0x7f02005f;
     }
     public static final class id {
-        public static final int action0=0x7f0c0069;
+        public static final int action0=0x7f0c006f;
         public static final int action_bar=0x7f0c0042;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c0041;
@@ -1702,28 +1704,29 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0c0023;
         public static final int action_bar_title=0x7f0c0022;
         public static final int action_context_bar=0x7f0c0043;
-        public static final int action_divider=0x7f0c006d;
+        public static final int action_divider=0x7f0c0073;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c003f;
         public static final int action_mode_bar_stub=0x7f0c003e;
         public static final int action_mode_close_button=0x7f0c0024;
         public static final int activity_chooser_view_content=0x7f0c0025;
-        public static final int activity_main=0x7f0c005e;
+        public static final int activity_main=0x7f0c005f;
         public static final int alertTitle=0x7f0c0031;
+        public static final int all_textView=0x7f0c005c;
         public static final int always=0x7f0c001d;
         public static final int beginning=0x7f0c001a;
-        public static final int bmapView=0x7f0c0061;
+        public static final int bmapView=0x7f0c0062;
         public static final int btn_clip=0x7f0c0058;
         public static final int btn_move=0x7f0c0056;
         public static final int btn_normal=0x7f0c0055;
         public static final int btn_ripple=0x7f0c0057;
-        public static final int button=0x7f0c0060;
+        public static final int button=0x7f0c0061;
         public static final int buttonPanel=0x7f0c002c;
-        public static final int cancel_action=0x7f0c006a;
-        public static final int cancel_button=0x7f0c0064;
+        public static final int cancel_action=0x7f0c0070;
+        public static final int cancel_button=0x7f0c0065;
         public static final int checkbox=0x7f0c003a;
-        public static final int chronometer=0x7f0c0070;
+        public static final int chronometer=0x7f0c0076;
         public static final int collapseActionView=0x7f0c001e;
         public static final int contentPanel=0x7f0c0032;
         public static final int custom=0x7f0c0038;
@@ -1733,8 +1736,8 @@ containing a value of this type.
         public static final int disableHome=0x7f0c000d;
         public static final int edit_query=0x7f0c0044;
         public static final int end=0x7f0c001b;
-        public static final int end_padder=0x7f0c0075;
-        public static final int exit_button=0x7f0c005d;
+        public static final int end_padder=0x7f0c007b;
+        public static final int exit_button=0x7f0c005e;
         public static final int expand_activities_button=0x7f0c0026;
         public static final int expanded_menu=0x7f0c0039;
         public static final int frag_tab_text=0x7f0c005a;
@@ -1743,31 +1746,33 @@ containing a value of this type.
         public static final int icon=0x7f0c002a;
         public static final int ifRoom=0x7f0c001f;
         public static final int image=0x7f0c0027;
-        public static final int info=0x7f0c0074;
+        public static final int info=0x7f0c007a;
+        public static final int item_article=0x7f0c006e;
         public static final int item_touch_helper_previous_elevation=0x7f0c0005;
-        public static final int key=0x7f0c005f;
-        public static final int line1=0x7f0c006e;
-        public static final int line3=0x7f0c0072;
+        public static final int item_userName=0x7f0c006d;
+        public static final int key=0x7f0c0060;
+        public static final int line1=0x7f0c0074;
+        public static final int line3=0x7f0c0078;
         public static final int listMode=0x7f0c000a;
         public static final int list_item=0x7f0c0029;
         public static final int login_button=0x7f0c0054;
-        public static final int main_frame_container=0x7f0c0067;
-        public static final int main_text_step=0x7f0c0068;
-        public static final int media_actions=0x7f0c006c;
+        public static final int main_frame_container=0x7f0c006a;
+        public static final int main_text_step=0x7f0c006b;
+        public static final int media_actions=0x7f0c0072;
         public static final int middle=0x7f0c001c;
         public static final int multiply=0x7f0c0015;
         public static final int my_name=0x7f0c005b;
         public static final int never=0x7f0c0020;
         public static final int none=0x7f0c000f;
         public static final int normal=0x7f0c000b;
-        public static final int ok_button=0x7f0c0065;
+        public static final int ok_button=0x7f0c0066;
         public static final int parentPanel=0x7f0c002e;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
         public static final int radio=0x7f0c003c;
         public static final int register_button=0x7f0c0053;
-        public static final int register_checkbox=0x7f0c0062;
-        public static final int register_message_textView=0x7f0c0063;
+        public static final int register_checkbox=0x7f0c0063;
+        public static final int register_message_textView=0x7f0c0064;
         public static final int relate_tab_content=0x7f0c0059;
         public static final int screen=0x7f0c0016;
         public static final int scrollIndicatorDown=0x7f0c0036;
@@ -1784,7 +1789,10 @@ containing a value of this type.
         public static final int search_src_text=0x7f0c004b;
         public static final int search_voice_btn=0x7f0c004f;
         public static final int select_dialog_listview=0x7f0c0050;
-        public static final int share_recyclerView=0x7f0c005c;
+        public static final int share_button=0x7f0c006c;
+        public static final int share_button_cancel=0x7f0c0067;
+        public static final int share_button_ok=0x7f0c0068;
+        public static final int share_recyclerView=0x7f0c005d;
         public static final int shortcut=0x7f0c003b;
         public static final int showCustom=0x7f0c0010;
         public static final int showHome=0x7f0c0011;
@@ -1794,17 +1802,17 @@ containing a value of this type.
         public static final int src_atop=0x7f0c0017;
         public static final int src_in=0x7f0c0018;
         public static final int src_over=0x7f0c0019;
-        public static final int status_bar_latest_event_content=0x7f0c006b;
+        public static final int status_bar_latest_event_content=0x7f0c0071;
         public static final int submit_area=0x7f0c004d;
         public static final int tabMode=0x7f0c000c;
-        public static final int tab_icon=0x7f0c0077;
-        public static final int tab_layout=0x7f0c0076;
-        public static final int tab_title=0x7f0c0078;
-        public static final int text=0x7f0c0073;
-        public static final int text2=0x7f0c0071;
+        public static final int tab_icon=0x7f0c007d;
+        public static final int tab_layout=0x7f0c007c;
+        public static final int tab_title=0x7f0c007e;
+        public static final int text=0x7f0c0079;
+        public static final int text2=0x7f0c0077;
         public static final int textSpacerNoButtons=0x7f0c0035;
-        public static final int text_jibu=0x7f0c0066;
-        public static final int time=0x7f0c006f;
+        public static final int text_jibu=0x7f0c0069;
+        public static final int time=0x7f0c0075;
         public static final int title=0x7f0c002b;
         public static final int title_template=0x7f0c0030;
         public static final int topPanel=0x7f0c002f;
@@ -1859,20 +1867,22 @@ containing a value of this type.
         public static final int fragment_mine=0x7f040021;
         public static final int fragment_path=0x7f040022;
         public static final int fragment_register=0x7f040023;
-        public static final int fragment_step=0x7f040024;
-        public static final int notification_media_action=0x7f040025;
-        public static final int notification_media_cancel_action=0x7f040026;
-        public static final int notification_template_big_media=0x7f040027;
-        public static final int notification_template_big_media_narrow=0x7f040028;
-        public static final int notification_template_lines=0x7f040029;
-        public static final int notification_template_media=0x7f04002a;
-        public static final int notification_template_part_chronometer=0x7f04002b;
-        public static final int notification_template_part_time=0x7f04002c;
-        public static final int select_dialog_item_material=0x7f04002d;
-        public static final int select_dialog_multichoice_material=0x7f04002e;
-        public static final int select_dialog_singlechoice_material=0x7f04002f;
-        public static final int support_simple_spinner_dropdown_item=0x7f040030;
-        public static final int tabhost_indicator=0x7f040031;
+        public static final int fragment_share=0x7f040024;
+        public static final int fragment_step=0x7f040025;
+        public static final int item_message_list=0x7f040026;
+        public static final int notification_media_action=0x7f040027;
+        public static final int notification_media_cancel_action=0x7f040028;
+        public static final int notification_template_big_media=0x7f040029;
+        public static final int notification_template_big_media_narrow=0x7f04002a;
+        public static final int notification_template_lines=0x7f04002b;
+        public static final int notification_template_media=0x7f04002c;
+        public static final int notification_template_part_chronometer=0x7f04002d;
+        public static final int notification_template_part_time=0x7f04002e;
+        public static final int select_dialog_item_material=0x7f04002f;
+        public static final int select_dialog_multichoice_material=0x7f040030;
+        public static final int select_dialog_singlechoice_material=0x7f040031;
+        public static final int support_simple_spinner_dropdown_item=0x7f040032;
+        public static final int tabhost_indicator=0x7f040033;
     }
     public static final class mipmap {
         public static final int bottombar_appgroup_normal=0x7f030000;
@@ -5374,14 +5384,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_layoutManager com.zhh.test:layoutManager}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_reverseLayout com.zhh.test:reverseLayout}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_spanCount com.zhh.test:spanCount}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_stackFromEnd com.zhh.test:stackFromEnd}</code></td><td></td></tr>
            </table>
-           @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
            @see #RecyclerView_reverseLayout
@@ -5389,15 +5397,9 @@ containing a value of this type.
            @see #RecyclerView_stackFromEnd
          */
         public static final int[] RecyclerView = {
-            0x010100c4, 0x010100f1, 0x7f0100a9, 0x7f0100aa,
-            0x7f0100ab, 0x7f0100ac
+            0x010100c4, 0x7f0100a9, 0x7f0100aa, 0x7f0100ab,
+            0x7f0100ac
         };
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#descendantFocusability}
-          attribute's value can be found in the {@link #RecyclerView} array.
-          @attr name android:descendantFocusability
-        */
-        public static final int RecyclerView_android_descendantFocusability = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#orientation}
           attribute's value can be found in the {@link #RecyclerView} array.
@@ -5417,7 +5419,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.zhh.test:layoutManager
         */
-        public static final int RecyclerView_layoutManager = 2;
+        public static final int RecyclerView_layoutManager = 1;
         /**
           <p>This symbol is the offset where the {@link com.zhh.test.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
@@ -5431,7 +5433,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.zhh.test:reverseLayout
         */
-        public static final int RecyclerView_reverseLayout = 4;
+        public static final int RecyclerView_reverseLayout = 3;
         /**
           <p>This symbol is the offset where the {@link com.zhh.test.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
@@ -5445,7 +5447,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.zhh.test:spanCount
         */
-        public static final int RecyclerView_spanCount = 3;
+        public static final int RecyclerView_spanCount = 2;
         /**
           <p>This symbol is the offset where the {@link com.zhh.test.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
@@ -5459,7 +5461,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.zhh.test:stackFromEnd
         */
-        public static final int RecyclerView_stackFromEnd = 5;
+        public static final int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a SearchView.
            <p>Includes the following attributes:</p>
            <table>

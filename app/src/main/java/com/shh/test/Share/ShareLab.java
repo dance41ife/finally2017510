@@ -21,12 +21,12 @@ public class ShareLab {
     }
     private ShareLab(Context context){
         mShares=new ArrayList<>();
-        for (int i=0;i<20;i++){
-            Share share=new Share();
-            share.setUserName(i+" username");
-            share.setShareMessage(i+" ShareMessage");
-            mShares.add(share);
-        }
+//        for (int i=0;i<20;i++){
+//            Share share=new Share();
+//            share.setUserName(i+" username");
+//            share.setShareMessage(i+" ShareMessage");
+//            mShares.add(share);
+//        }
     }
     public List<Share> getShares(){
         return mShares;
@@ -38,5 +38,9 @@ public class ShareLab {
             }
         }
         return null;
+    }
+
+    public void setShare(List<Share> share){
+        mShares=share;
     }
 }

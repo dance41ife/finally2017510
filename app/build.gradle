@@ -32,6 +32,6 @@ dependencies {
     compile files('libs/mysql-connector-java-5.0.8-bin.jar')
     compile files('libs/BaiduLBS_Android.jar')
     compile 'com.kymjs.rxvolley:rxvolley:1.1.4'
-    compile 'com.android.support:recyclerview-v7:25.2.0'
-    compile 'com.android.support:support-v4:25.2.0'
+    compile 'com.android.support:recyclerview-v7:23.2.0'
+    compile 'com.android.support:support-v4:23.2.0'
 }

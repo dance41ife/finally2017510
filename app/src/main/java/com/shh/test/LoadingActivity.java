@@ -1,6 +1,7 @@
 package com.shh.test;
 
 import android.app.Activity;
+import android.app.FragmentManager;
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
@@ -61,6 +62,9 @@ public class LoadingActivity extends Activity {
                                 Toast.makeText(LoadingActivity.this,"用户名或密码错误",Toast.LENGTH_SHORT).show();
                             }else {
                                 Intent i=new Intent(LoadingActivity.this,MainActivity.class);
+                                Bundle bundle=new Bundle();
+                                bundle.putString("userMessage",t);
+                                i.putExtras(bundle);
                                 startActivity(i);
                             }
                         }
@@ -108,7 +112,7 @@ public class LoadingActivity extends Activity {
         registerButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                android.app.FragmentManager manager=getFragmentManager();
+                FragmentManager manager=getFragmentManager();
                 RegisterFragment registerFragment=new RegisterFragment();
                 registerFragment.show(manager,"");
 

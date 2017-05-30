@@ -2,7 +2,6 @@ package com.shh.test.Fragment;
 
 import android.app.Dialog;
 import android.app.DialogFragment;
-import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.text.Editable;
@@ -16,13 +15,9 @@ import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
-
-import com.baidu.mapapi.map.Text;
 import com.kymjs.rxvolley.RxVolley;
 import com.kymjs.rxvolley.client.HttpCallback;
 import com.kymjs.rxvolley.client.HttpParams;
-import com.shh.test.LoadingActivity;
 import com.shh.test.R;
 
 import java.lang.reflect.Field;

@@ -29,6 +29,7 @@ import com.shh.test.myStep.service.StepService;
 
 public class MainActivity extends AppCompatActivity implements Handler.Callback{
     private static final String TAG = "currentTime";
+    private String message="";
     //全局变量
     public static int step=0;
     //基于FragmentTabHost的控件
@@ -57,6 +58,11 @@ public class MainActivity extends AppCompatActivity implements Handler.Callback{
         setContentView(R.layout.activity_menu_clip);
         delayHandler = new Handler(this);
         initTabHost();
+
+
+        Bundle bundle=this.getIntent().getExtras();
+        message=bundle.getString("userMessage");
+        Log.i("我的信息",message);
 
 
     }

@@ -1,4 +1,4 @@
-#Mon May 29 18:37:42 CST 2017
+#Tue May 30 12:26:27 CST 2017
 base.0=G\:\\qm\\finally2017510\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2dfeb821aa3199dd2746b6876ba821ef3f9fb866
 renamed.1=classes.dex
 renamed.0=classes2.dex

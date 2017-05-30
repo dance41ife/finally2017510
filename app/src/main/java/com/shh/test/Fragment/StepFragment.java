@@ -1,16 +1,24 @@
 package com.shh.test.Fragment;
 
+
+
+import android.app.FragmentManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.AlertDialog;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 
+import com.shh.test.MainActivity;
 import com.shh.test.R;
+import com.shh.test.Share.Share;
+
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -21,6 +29,7 @@ public class StepFragment extends Fragment {
 
 
     private   TextView text_step;
+    private Button shareButton;
 
 
     private static final String TAG = "StepFragment";
@@ -37,6 +46,16 @@ public class StepFragment extends Fragment {
                              Bundle savedInstanceState) {
         View v=inflater.inflate(R.layout.fragment_step, container, false);
         text_step=(TextView)v.findViewById(R.id.main_text_step);
+        shareButton=(Button)v.findViewById(R.id.share_button);
+        shareButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                ShareFragment shareFragment=new ShareFragment();
+                shareFragment.show(getActivity().getFragmentManager(),"");
+
+
+            }
+        });
         init();
         return v;
 

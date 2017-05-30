@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    android:background="@drawable/bg_step_count"
+    android:background="@drawable/fist"
     tools:context="com.shh.test.MainActivity">
 
     <TextView
@@ -47,5 +47,16 @@
 
 
     </FrameLayout>
+
+    <Button
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:text="分享"
+        android:id="@+id/share_button"
+        android:background="@null"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>
