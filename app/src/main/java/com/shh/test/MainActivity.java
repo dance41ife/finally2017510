@@ -36,9 +36,9 @@ public class MainActivity extends AppCompatActivity implements Handler.Callback{
     //基于FragmentTabHost的控件
     private XFragmentTabHost mTabHost;
 
-    String[] mTabTitle = new String[] {"首页", "计划", "我的", "管理"};
+    String[] mTabTitle = new String[] {"首页", "计划", "我的", "Tips"};
     int[] mImageResId = new int[] {R.drawable.sel_tab_home, R.drawable.sel_tab_app,
-            R.drawable.sel_tab_game, R.drawable.sel_tab_mag};
+            R.drawable.sel_menu_game, R.drawable.sel_menu_home};
 
     //这是你要用到的Fragment
     Class[] mFragClass = new Class[] {StepFragment.class, PathFragment.class,

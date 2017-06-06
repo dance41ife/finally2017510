@@ -25,11 +25,18 @@
             android:gravity="top"
             />
     </LinearLayout>
-
-
-
-
-
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="30dp">
+        <TextView
+            android:gravity="center"
+            android:textSize="20dp"
+            android:id="@+id/share_message_textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
         android:gravity="center"

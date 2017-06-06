@@ -10,7 +10,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 
+import com.baidu.mapapi.map.Text;
 import com.kymjs.rxvolley.RxVolley;
 import com.kymjs.rxvolley.client.HttpCallback;
 import com.kymjs.rxvolley.client.HttpParams;
@@ -24,10 +26,12 @@ public class ShareFragment extends DialogFragment {
     private Button ccButton;
     private Button ShareButton;
     private EditText etArticle;
-    private String article="";
+    private String article=null;
+    private TextView shareMessageTextView;
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState){
         View v= LayoutInflater.from(getActivity()).inflate(R.layout.fragment_share,null);
+        shareMessageTextView=(TextView)v.findViewById(R.id.share_message_textView);
         ccButton=(Button)v.findViewById(R.id.share_button_cancel);
         ccButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,6 +43,9 @@ public class ShareFragment extends DialogFragment {
         ShareButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if (article==null){
+                    shareMessageTextView.setText("你总要写些什么吧");
+                }else {
                 HttpParams params = new HttpParams();
                 //articleStatus为 1 的时候是分享文章，同样适用volley框架。
                 params.put("articleStatus","1");
@@ -51,6 +58,7 @@ public class ShareFragment extends DialogFragment {
                     }
                 });
                 getDialog().dismiss();
+                }
             }
         });
         etArticle=(EditText)v.findViewById(R.id.article_editText);
@@ -71,7 +79,7 @@ public class ShareFragment extends DialogFragment {
             }
         });
         return new AlertDialog.Builder(getActivity())
-                .setTitle("分享你的心情吧!   "+getUserName(getActivity().getIntent().getStringExtra("userMessage")))
+                .setTitle("分享你的心情吧!")
                 .setView(v)
                 .create();
     }

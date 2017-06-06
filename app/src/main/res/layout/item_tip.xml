@@ -5,6 +5,7 @@
     android:layout_height="wrap_content"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
+                android:paddingTop="16dp"
     xmlns:tools="http://schemas.android.com/tools">
 
 
@@ -33,6 +34,11 @@
             tools:text="woshishabi,nishishui?haoqiao,woyeshi."/>
 
     </LinearLayout>
+    <ImageButton
+        android:background="@color/white"
+        android:layout_below="@id/item_tip_img"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
 
 
 </RelativeLayout>
